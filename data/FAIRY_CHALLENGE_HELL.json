@@ -1,0 +1,20 @@
+{
+	"id": 2059,
+	"name": "fairy challenge hell",
+	"author": "Kubix",
+	"creators": [
+		"Kubix"
+	],
+	"verifier": "Kubix",
+	"verification": "https://youtu.be/uIPN7D9Kf0E",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "Xan",
+			"link": "https://youtu.be/JxUbbKycO4o?si=07QfCYfsioQZVlGY",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}
